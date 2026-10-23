@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Build output
+site-output/
+dist/
+build/
+
+# Astro cache
+.astro/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Debug logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local environment files
+*.local
+
+# Netlify local state
+.netlify/

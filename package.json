@@ -1,0 +1,7 @@
+{
+  "name": "astro-stuff",
+  "private": true,
+  "scripts": {
+    "build": "node build-all.mjs"
+  }
+}
